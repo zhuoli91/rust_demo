@@ -1,0 +1,1 @@
+![](../../screenshot/sum_calculator.png)

@@ -1,0 +1,1 @@
+![](../../screenshot/traffic_light.png)
